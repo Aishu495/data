@@ -1,0 +1,190 @@
+[
+    {
+        "id":1,
+        "subcategory":"outdoor sports"
+    },
+    {
+        "id":2,
+        "subcategory":"fitness sports"
+    },
+    {
+        "id":3,
+        "subcategory":"running and walking"
+    },
+    {
+        "id":4,
+        "subcategory":"team sports"
+    },
+    {
+        "id":5,
+        "subcategory":"cycling"
+    },
+    {
+        "id":6,
+        "subcategory":"water sports"
+    },
+    {
+        "id":7,
+        "subcategory":"racket sports"
+    },
+    {
+        "id":8,
+        "subcategory":"target sports"
+    },
+    {
+        "id":9,
+        "subcategory":"roller sports"
+    },
+    {
+        "id":10,
+        "subcategory":"nutrition and supplements"
+    },
+    {
+        "id":11,
+        "subcategory":"mens footwear"
+    },
+    {
+        "id":12,
+        "subcategory":"mens tops"
+    },
+    {
+        "id":13,
+        "subcategory":"mens bottoms"
+    },
+    {
+        "id":14,
+        "subcategory":"mens innerwear"
+    },
+    {
+        "id":15,
+        "subcategory":"under 999 store"
+    },
+    {
+        "id":16,
+        "subcategory":"activewear"
+    },
+    {
+        "id":17,
+        "subcategory":"womens footwear"
+    },
+    {
+        "id":18,
+        "subcategory":"womens tops"
+    },
+    {
+        "id":19,
+        "subcategory":"womens bottoms"
+    },
+    {
+        "id":20,
+        "subcategory":"womens innerwear"
+    },
+    {
+        "id":21,
+        "subcategory":"under 999 store"
+    },
+    {
+        "id":22,
+        "subcategory":"active wear"
+    },
+    {
+        "id":23,
+        "subcategory":"kids tops"
+    },
+    {
+        "id":24,
+        "subcategory":"kids bottoms"
+    },
+    {
+        "id":25,
+        "subcategory":"kids footwear"
+    },
+    {
+        "id":26,
+        "subcategory":"kids cycle"
+    },
+    {
+        "id":27,
+        "subcategory":"kids scooters and skates"
+    },
+    {
+        "id":28,
+        "subcategory":"kids cricket"
+    },
+    {
+        "id":29,
+        "subcategory":"kids innerwear"
+    },
+    {
+        "id":30,
+        "subcategory":"active wear"
+    },
+    {
+        "id":31,
+        "subcategory":"kids home equipment"
+    },
+    {
+        "id":32,
+        "subcategory":"roller sports"
+    },
+    {
+        "id":33,
+        "subcategory":"nutrition and supplements"
+    },
+    {
+        "id":34,
+        "subcategory":"mens footwear"
+    },
+    {
+        "id":35,
+        "subcategory":"bags and backpacks"
+    },
+    {
+        "id":36,
+        "subcategory":"clothing accessories"
+    },
+    {
+        "id":37,
+        "subcategory":"bottles and food storage"
+    },
+    {
+        "id":38,
+        "subcategory":"supports and massagers"
+    },
+    {
+        "id":39,
+        "subcategory":"electronics"
+    },
+    {
+        "id":40,
+        "subcategory":"hydration and nutrition"
+    },
+    {
+        "id":41,
+        "subcategory":"sports sunglasses"
+    },
+    {
+        "id":42,
+        "subcategory":"sports watches"
+    },
+    {
+        "id":43,
+        "subcategory":"training accessories"
+    },
+    {
+        "id":44,
+        "subcategory":"camping furniture"
+    },
+    {
+        "id":45,
+        "subcategory":"gym equipment"
+    },
+    {
+        "id":46,
+        "subcategory":"home gym equipment"
+    },
+    {
+        "id":47,
+        "subcategory":"sports at home"
+    }
+   

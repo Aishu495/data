@@ -1,0 +1,132 @@
+[
+    {
+        "id":1,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/n1WNynL/mtshirt1.jpg",
+        "price":"2000",
+        "discount":"20%",
+        "warrenty":"1yr"
+        
+    }
+    {
+        "id":2,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/bQpCHsK/mtshirt2.jpg",
+        "price":"2000",
+        "discount":"20%",
+        "warrenty":"1yr"
+        
+    }
+    {
+        "id":3,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/wCgH4vb/mtshirt3.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+        
+    }
+    {
+        "id":4,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/my2t5m5/mshots1.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+        
+    }
+    {
+        "id":5,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/zG2rYBd/mshots2.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+        
+    }
+    {
+        "id":6,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/BtRKVND/mshots3.jpg",
+        "price":"2000",
+        "discount":"20%",
+        "warrenty":"1yr"
+        
+    }
+    {
+        "id":7,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/RPHVN21/racket1.jpg",
+        "price":"2000",
+        "discount":"20%",
+        "warrenty":"1yr"
+    
+    }
+    {
+        "id":8,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/k6fZkKK/racket2.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+        
+    }
+    {
+        "id":9,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/Yc1SG95/badminton-cover.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+    
+    }
+    {
+        "id":10,
+        "name":"Racket sports",
+        "category":"All sports",
+        "category_id":1,
+        "sub_category":"outdoor sports",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/zXPYByf/mshoes1.jpg",
+        "price":"2500",
+        "discount":"20%",
+        "warrenty":"2yr"
+        
+    }
+]
